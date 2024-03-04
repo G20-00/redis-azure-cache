@@ -61,9 +61,8 @@ $ pnpm run start:prod
 
 <div style="text-align: left">
     <a href="https://github.com/G20-00" target="_blank"> <img alt="G20-00" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70019070?v=4&h=60&w=60&fit=cover&mask=circle"></a>
-  <a href="https://github.com/duvanovik" target="_blank"> <img alt="duvanovik" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70019070?v=4&h=60&w=60&fit=cover&mask=circle"></a>
+  <a href="https://github.com/duvanovik" target="_blank"> <img alt="duvanovik" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/42594511?v=4&h=60&w=60&fit=cover&mask=circle"></a>
 </div>
-
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
